@@ -38,7 +38,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 📫 How to contact me:
 * Gmail: arsyadhijrah49720@gmail.com
 * Instagram: [https://www.instagram.com/anca_is_core](https://www.instagram.com/anca_is_core)
-* LinkedIn: [https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b)
+* LinkedIn: [https://www.linkedin.com/in/muh-arsyad-ramsi](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b)
 
 
 
