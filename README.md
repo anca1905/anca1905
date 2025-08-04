@@ -16,6 +16,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ### Backend Frameworks & Runtimes
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ### Frontend Frameworks & Libraries
@@ -23,10 +24,16 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anca1905&color=020079" alt="Profile views" /> </p>
