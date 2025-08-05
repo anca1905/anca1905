@@ -5,8 +5,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 
 [![Mail Badge](https://img.shields.io/badge/-arsyadhijrah49720@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:arsyadhijrah49720@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@anca_is_core-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/anca_is_core) 
-[![Linkedin Badge](https://img.shields.io/badge/-muh-arsyad-ramsi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b/) 
-[![](https://komarev.com/ghpvc/?username=anca1905&color=020079)](https://github.com/anca1905/anca1905)
+[![](https://komarev.com/ghpvc/?username=anca1905&color=blue)](https://github.com/anca1905/anca1905)
 
 ## 🌱 My Tech Stack
 
