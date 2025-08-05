@@ -34,6 +34,9 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ### Tools & Platforms
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 
