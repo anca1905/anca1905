@@ -46,7 +46,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anca1905&theme=tokyonight&card_width=470" alt="anca1905" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=tokyonight" alt="anca1905" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anca1905&card_width=470&langs_count=7&layout=compact&theme=tokyonight" alt="anca1905" />
 </p>
 
 
