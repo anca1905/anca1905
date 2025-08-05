@@ -6,6 +6,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 [![Mail Badge](https://img.shields.io/badge/-arsyadhijrah49720@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:arsyadhijrah49720@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@anca_is_core-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/anca_is_core) 
 [![Linkedin Badge](https://img.shields.io/badge/-muh-arsyad-ramsi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b/) 
+[![](https://komarev.com/ghpvc/?username=anca1905&color=020079)](https://github.com/anca1905/anca1905)
 
 ## 🌱 My Tech Stack
 
@@ -42,7 +43,6 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anca1905&theme=tokyonight&show_icons=true&" alt="anca1905" />
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anca1905&color=020079" alt="Profile views" /> </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anca1905&theme=tokyonight&card_width=470" alt="anca1905" />
 </p>
@@ -51,7 +51,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ![](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=45&descSize=30&descAlignY=85&section=footer" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=45&descSize=30&descAlignY=85&section=footer](https://capsule-render.vercel.app/apitype=waving&height=125&color=0:3a8296,100:091519&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=50&descSize=30&descAlignY=50&section=footer&descAlign=50)" />
 
 
 
