@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Muh%20Arsyad%20Ramsi&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=45&desc=A%20Web%20Developer&descSize=30&descAlignY=85" />
 
 Student/fresh graduate currently interning as a web developer, with a strong interest in backend and API development.
 Proficient in PHP and Laravel to create simple applications and CRUD systems. Familiar with Bootstrap for responsive interface design. Currently focusing on deepening my understanding of application architecture, RESTful APIs, and modern web development best practices.
