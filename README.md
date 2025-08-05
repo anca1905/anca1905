@@ -39,7 +39,10 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,arduino,github,git,notion)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anca1905&theme=react&show_icons=true&)
+![GitHub stats]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anca1905&theme=tokyonight&show_icons=true&" alt="anca1905" />
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anca1905&color=020079" alt="Profile views" /> </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anca1905&theme=tokyonight" alt="anca1905" />
