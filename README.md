@@ -4,8 +4,8 @@ Student/fresh graduate currently interning as a web developer, with a strong int
 Proficient in PHP and Laravel to create simple applications and CRUD systems. Familiar with Bootstrap for responsive interface design. Currently focusing on deepening my understanding of application architecture, RESTful APIs, and modern web development best practices.
 
 [![Mail Badge](https://img.shields.io/badge/-arsyadhijrah49720@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:arsyadhijrah49720@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
-[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
+[![Instagram Badge](https://img.shields.io/badge/-@anca_is_core-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/anca_is_core) 
+[![Linkedin Badge](https://img.shields.io/badge/-muh-arsyad-ramsi-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b/) 
 
 ## 🌱 My Tech Stack
 
@@ -39,23 +39,17 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,arduino,github,git,notion)
 
-![GitHub stats]()
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anca1905&theme=tokyonight&show_icons=true&" alt="anca1905" />
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anca1905&color=020079" alt="Profile views" /> </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anca1905&theme=tokyonight" alt="anca1905" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anca1905&theme=tokyonight&card_width=470" alt="anca1905" />
 </p>
 
 
 ![](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
-
-📫 How to contact me:
-* Gmail: arsyadhijrah49720@gmail.com
-* Instagram: [https://www.instagram.com/anca_is_core](https://www.instagram.com/anca_is_core)
-* LinkedIn: [https://www.linkedin.com/in/muh-arsyad-ramsi](https://www.linkedin.com/in/muh-arsyad-ramsi-17526721b)
 
 
 
