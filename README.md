@@ -48,8 +48,6 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 
 
 ![](./profile-3d-contrib/github-contribution-grid-snake.svg)
-
-
 <img src="[https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=45&descSize=30&descAlignY=85&section=footer](https://capsule-render.vercel.app/apitype=waving&height=125&color=0:3a8296,100:091519&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontSize=50&fontColor=61DAFB&fontAlignY=50&descSize=30&descAlignY=50&section=footer&descAlign=50)" />
 
 
