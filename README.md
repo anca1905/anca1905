@@ -3,6 +3,10 @@
 Student/fresh graduate currently interning as a web developer, with a strong interest in backend and API development.
 Proficient in PHP and Laravel to create simple applications and CRUD systems. Familiar with Bootstrap for responsive interface design. Currently focusing on deepening my understanding of application architecture, RESTful APIs, and modern web development best practices.
 
+[![Mail Badge](https://img.shields.io/badge/-arsyadhijrah49720@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:arsyadhijrah49720@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
+[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
+
 ## 🌱 My Tech Stack
 
 ### Programming Languages
@@ -36,7 +40,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/vscode%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 
