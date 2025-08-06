@@ -29,7 +29,6 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Database
 
@@ -37,7 +36,7 @@ Proficient in PHP and Laravel to create simple applications and CRUD systems. Fa
 
 ### Tools & Platforms
 
-![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,arduino,github,git,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,arduino,github,git,notion,unity)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anca1905&theme=tokyonight&show_icons=true&" alt="anca1905" />
