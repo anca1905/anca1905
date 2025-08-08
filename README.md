@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Muh%20Arsyad%20Ramsi&animation=twinkling&fontAlign=50&fontSize=45&fontColor=61DAFB&desc=A%20Web%20Developer&descSize=25&descAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:285b69,100:091519&text=Muh%20Arsyad%20Ramsi&animation=twinkling&fontAlign=50&fontSize=45&fontColor=61DAFB&desc=A%20Web%20Developer&descSize=25&descAlignY=80" />
 </p>
 
 <p align="center">
-  <em>Student / Fresh Graduate | Currently Interning as a Web Developer</em><br />
-  <em>Passionate about Backend Development, APIs, and Clean Architecture</em>
+<em>7th-semester student | Currently Interning as a Web Developer</em><br />
+<em>Passionate about Backend Development, APIs, and Clean Architecture</em>
 </p>
 
 ---
@@ -13,9 +13,8 @@
 - 🎓 Currently exploring backend systems and RESTful APIs
 - 🧠 Learning Laravel deeply (Eloquent ORM, architecture, security)
 - 🔧 Comfortable building CRUD apps with PHP & Laravel
-- 🎨 Use Bootstrap for responsive UI
-- 🌐 Looking to grow as a **professional backend developer**
-
+- 🎨 Using Bootstrap and Tailwind CSS for responsive UI
+- 🌐 Looking to grow as a **full-stack developer**
 ---
 
 ### 📫 Connect With Me
@@ -78,5 +77,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a8296,100:091519&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:285b69,100:091519&section=footer" />
 </p>
