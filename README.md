@@ -53,7 +53,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github,git,notion,anaconda,arduino,unity)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postman,notion,anaconda,arduino,unity)
 
 ---
 
