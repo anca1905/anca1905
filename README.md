@@ -7,17 +7,6 @@
 <em>Passionate about Backend Development, APIs, and Clean Architecture</em>
 </p>
 
----
-
-### 💬 About Me
-- 🎓 Currently exploring backend systems and RESTful APIs
-- 🧠 Learning Laravel deeply (Eloquent ORM, architecture, security)
-- 🔧 Comfortable building CRUD apps with PHP & Laravel
-- 🎨 Using Bootstrap and Tailwind CSS for responsive UI
-- 🌐 Looking to grow as a **full-stack developer**
----
-
-### 📫 Connect With Me
 <p align="center">
   <a href="mailto:arsyadhijrah49720@gmail.com">
     <img src="https://img.shields.io/badge/-arsyadhijrah49720@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" />
@@ -27,7 +16,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=anca1905&color=blue" alt="Profile Views" />
 </p>
+---
 
+### 💬 About Me
+- 🎓 Currently exploring backend systems and RESTful APIs
+- 🧠 Learning Laravel deeply (Eloquent ORM, architecture, security)
+- 🔧 Comfortable building CRUD apps with PHP & Laravel
+- 🎨 Using Bootstrap and Tailwind CSS for responsive UI
+- 🌐 Looking to grow as a **full-stack developer**
 ---
 
 ## 🛠️ Tech Stack
